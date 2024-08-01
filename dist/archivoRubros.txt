@@ -1,0 +1,10 @@
+Pintura: Renovación de Pintura
+Sanitaria: Reparación de Sanitaria
+Eléctrica: Instalación Eléctrica
+Carpintería: Trabajo en Madera
+Albañilería: Reparación de Paredes
+Pisos: Instalación de pisos
+Cambio de Ventanas: Reemplazo de Ventanas
+Baño: Remodelación de Baño
+Cocina: Renovación de Cocina
+Aislamiento Térmico: Mejora Térmica
